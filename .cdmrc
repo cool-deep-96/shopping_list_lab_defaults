@@ -1,1 +1,3 @@
-
+terminals: ['echo one', 'echo two', 'echo three']
+playground-view: terminal-editor-browser
+run-button: clear && npm run dev
